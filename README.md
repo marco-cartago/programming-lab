@@ -1,2 +1,3 @@
 # programming-lab
-Repo for the programming lab course
+___
+My repo for the programming lab course
